@@ -1,0 +1,126 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2 www.m3ugratis.com
+https://us11.koscar.live/SD_HBO_2/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5                                   
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CARTOON NETWORK www.m3ugratis.com
+http://pl.server.kcharlie.xyz/HD_CARTOON_NETWORK/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
+https://us11.koscar.live/SD_AE/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
+https://us.kgolf.live/FHD_AMC/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filme e Serie",AXN
+http://ge.server.kwhiskey.live/SD_AXN/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
+https://fr.kquebec.live/SD_ANIMAL_PLANET/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade",Arte 1
+https://us.kgolf.live/HD_ARTE1/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png" group-title="Entretenimento e Musica",BIS
+http://ge.server.kvictor.live/SD_BIS/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Baby TV" tvg-logo="https://i.ibb.co/yfscShb/babytv.png" group-title="Infantil",Baby TV
+https://fr.kgolf.site/SD_BABYTV/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band
+https://us11.kfoxtrot.store/SD_BAND/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News
+https://fr.ktango.live/SD_BAND_NEWS/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Band Sports" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports
+http://ge.server.kwhiskey.live/HD_BAND_SPORTS/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Canal Rural" tvg-logo="https://i.ibb.co/fxWk6Mh/canalruralb.png" group-title="TV Aberta",Canal Rural
+https://us.kgolf.live/SD_CANAL_RURAL/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
+http://pl.server.kcharlie.xyz/SD_CARTOON_NETWORK/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax
+https://fr.ktango.live/SD_CINEMAX/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
+http://us12.server.kkgolf.xyz/SD_COMBATE/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Filme e Serie",Comedy Central
+http://pl.server.kdelta.xyz/SD_COMEDY_CENTRAL/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+http://pl.server.kbravo.xyz/SD_DISCOVERY/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids
+http://pl.server.kcharlie.xyz/SD_DISCOVERY_KIDS/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel
+http://ge.server.kuniform.live/SD_DISNEY/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Disney JR" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR
+http://us13.server.kalfa.live/SD_DISNEY_JR/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD
+http://us12.server.kecho.store/SD_DISNEY_XD/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+EXTM3U
+
+#EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX
+https://fr.kgolf.site/SD_FX/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Fish TV" tvg-logo="https://i.ibb.co/3mqnQx2/fishtv.png" group-title="Variedade",Fish TV
+http://ge2.server.kudabeta.live/SD_FISH_TV/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Food Network" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Variedade",Food Network
+http://ge.server.kuniform.live/SD_FOOD_NETWORK/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
+http://us13.server.kbravo.live/SD_FOX/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1
+http://us12.server.kecho.store/HD_FOX_PREMIUM_1/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports
+http://us12.server.kecho.store/SD_FOX_SPORTS/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="GNT" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT
+http://ge2.server.kudaalpha.live/SD_GNT/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo
+https://us11.kfoxtrot.store/SD_GLOBO_BRASILIA/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="GloboNews" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews
+http://us4.server.kfoxtrot.xyz/SD_GLOBO_NEWS/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png" group-title="Infantil",Gloob
+http://us13.server.kalfa.live/SD_GLOOB/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO
+http://us13.server.kbravo.live/SD_HBO/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2
+https://us11.koscar.live/SD_HBO_2/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family
+https://us11.kfoxtrot.store/SD_HBO_FAMILY/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus
+http://us13.server.knovember.live/SD_HBO_PLUS/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature
+http://us4.server.kgolf.xyz/SD_HBO_SINGNATURE/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History
+http://us12.server.kklima.xyz/SD_HISTORY/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png" group-title="Filme e Serie",History 2
+https://fr.kquebec.live/SD_H2/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="ID" tvg-logo="https://i.ibb.co/GkCFcmY/investigationb.png" group-title="Documentario",ID
+http://us.server.kjuliett.live/SD_DISCOVERY_INVESTIGATION/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
+
+#EXTINF:-1 type="stream" tvg-id="Lifetime" tvg-logo="https://i.ibb.co/5rp1PW0/lifetime.png" group-title="Filme e Serie",Lifetime
+http://ge.server.kvictor.live/SD_LIFETIME/video.m3u8?token=b318a8671476ee7ade78bd4f1d3efdb5
